@@ -24,6 +24,21 @@ Education
 *Jun 2021- Aug 2021* : C++ Development Fundamentals at coursera.org    
 *Jun 2022 – Jul 2022* : Python: Basics and Application at stepik.org     
 *Jun 2022 –Nov 2022* : C# Programming at stepik.org   
+## Skills
+* HTML5, CSS3
+* JavaScipt (Basic)
+* .NET Core (MVP, MVVM)
+* SQL, MS SQL Server
+* Entity Framework
+* C++
+* Java
+* Python
+* Git, Github
+* VS Code, IntelliJ IDEA, Visual Studio
+
+Experience
+----------
+2022 : [Desctop application for clothes store with database.](https://github.com/Maquim4/ClothesStore_course)
 
 
 
