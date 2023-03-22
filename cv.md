@@ -40,6 +40,35 @@ Experience
 ----------
 2022 : [Desctop application for clothes store with database.](https://github.com/Maquim4/ClothesStore_course)
 
+Languages
+----------
+* **English** (B1 Intermediate)
+* Russian *(Native)*
+* **Chinese** (HSK 2)
+* Belarussian *(Native)*
+
+
+----------
+### Code example
+[KATA from CODEWARS:](https://www.codewars.com/kata/5574835e3e404a0bed00001b) Help Johnny by writing a function, that takes the amount of handshakes and returns the minimal amount of people needed to perform these handshakes (a pair of farmers handshake only once).  
+```
+function getParticipants(handshakes) {
+  console.log(handshakes);
+  men = 0;
+  let delta = 0;
+  let i = 1;
+  while (i <= handshakes) {
+    i += 1+delta++;
+    if(!men)
+      men=2;
+    else
+      men += 1;
+  }
+  console.log(men);
+  return men;
+}
+```
+----------
 
 
 
