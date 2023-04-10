@@ -38,7 +38,7 @@ Education
 
 Experience
 ----------
-2022 : [Desctop application for clothes store with database.](https://github.com/Maquim4/ClothesStore_course)
+2022 : [Desktop application for clothes store with database.](https://github.com/Maquim4/ClothesStore_course)
 
 Languages
 ----------
